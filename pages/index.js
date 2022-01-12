@@ -26,7 +26,7 @@ export default function Home() {
 					</div>
 					<div className="w-full lg:w-4/5 lg:px-6 mt-6 lg:mt-0">
 						<div className="prose prose-a:text-green-700 hover:prose-a:text-green-900 hover:prose-a:no-underline">
-							<p>Hi, my name is Christopher McComas. I&apos;m the Directory of Web Strategy at <a href="http://www.marshall.edu">Marshall University</a>. In my spare time I work on projects like <a href="http://www.herdvault.com">HerdVault</a>, <a href="https://www.herdeveryday.com/">HerdEveryday</a>, and <a href="http://www.aglwv.com">Appliance Golf League</a>. I recently presented at HighEdWeb 2019 Conference on how we&apos;ve worked to implement TailwindCSS at Marshall, you can <a href="/2019-highedweb.pdf">view my slides</a> and make fun of the first ever site I built on slide 3.</p>
+							<p>Hi, my name is Christopher McComas. I&apos;m the Directory of Web Strategy at <a href="http://www.marshall.edu">Marshall University</a>. In my spare time I work on projects like <a href="http://www.herdvault.com">HerdVault</a>, <a href="https://www.cmmcooks.com/">CMM Cooks</a>, and <a href="http://www.aglwv.com">Appliance Golf League</a>. I recently presented at HighEdWeb 2019 Conference on how we&apos;ve worked to implement TailwindCSS at Marshall, you can <a href="/2019-highedweb.pdf">view my slides</a> and make fun of the first ever site I built on slide 3.</p>
 						</div>
 					</div>
 				</div>
